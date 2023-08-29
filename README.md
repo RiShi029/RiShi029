@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/rishi-shivhare-aab2251b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-shivhare-aab2251b4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishi0299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi0299" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rishishiv07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishishiv07" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/17731083-672d-4efa-8d9b-f2eee579a2ab" target="blank"><img align="center" src="https://files.codingninjas.in/article_images/favicon-and-cherrypy-1-1660924366.webp" alt="Rishi" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/17731083-672d-4efa-8d9b-f2eee579a2ab" target="blank"><img align="center" src="https://factsberry.com/wp-content/uploads/2021/08/Coding-Ninjas-930x620.jpg" alt="Rishi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
