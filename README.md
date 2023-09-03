@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rishishiv07@gmail.com**
 
-- ⚡ Fun fact **to Teach is to learn Twice.**
+- ⚡ Fun fact : **to Teach is to learn Twice.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
