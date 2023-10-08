@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Time - Series data analysis**
 
-- 🌱 I’m currently learning **tensorflow**
+- 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **data insights**
+- 💬 Ask me about **Data Insights**
 
 - 📫 How to reach me **rishishiv07@gmail.com**
 
-- ⚡ Fun fact : **to Teach is to learn Twice.**
+- ⚡ Fun fact : **To Teach is to learn Twice.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
