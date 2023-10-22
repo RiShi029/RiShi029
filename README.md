@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact : **To Teach is to learn Twice.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Online Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishi-shivhare-aab2251b4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" alt="rishi-shivhare-aab2251b4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishi0299" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="rishi0299" height="30" width="40" /></a>
