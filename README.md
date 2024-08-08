@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Time - Series data analysis**
 
-- 🌱 I’m currently learning **Flutter**
+<!-- - 🌱 I’m currently learning **Flutter**-->
 
 - 💬 Ask me about **Data Insights**
 
